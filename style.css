@@ -96,5 +96,12 @@ footer .row {
 	padding-top: 20px;
 }
 
+/********Events Page**********/
+
+.panel-default>.panel-heading {
+	color: white;
+	background-color: #ba2b1a;
+}
+
 
 

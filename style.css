@@ -99,12 +99,17 @@ p.sub-heading {
 	padding: 20px;
 }
 
+.mission-block h3 em {
+	font-size: x-large;
+}
+
 .mission-block h3 {
 	font-weight: 200;
 }
 
 footer.jumbotron {
 	background-color: #ccc;
+	border-top: 5px solid #ba2b1a;
 }
 
 footer .row {

@@ -1,0 +1,96 @@
+* {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+}
+
+body {
+	background: url('images/ps_neutral.png') repeat;
+}
+
+.jumbotron {
+	padding: 0;
+	margin-bottom: 0;
+}
+
+.jumbotron.title {
+	margin-top: 0;
+	border-top: 5px solid #ba2b1a;
+	border-bottom: 5px solid #ba2b1a;
+	padding: 20px 0;
+	/*box-shadow: 0 8px 6px #000, 0 -8px 6px #000;*/
+}
+
+.nav-bg {
+	background-color: #11457e;
+}
+
+.nav-width {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.nav-pills li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.nav-pills li a {
+	border-radius: 0;
+	font-size: 18px;
+	background-color: #11457e;
+	color: #eee;
+}
+
+.nav-pills li a:hover {
+	color: #11457e;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+	color: #fff;
+	background-color: #ba2b1a;
+}
+
+.title {
+	background-color: #ccc;
+}
+
+.title-text h1, .title-text p, h2{
+	font-family: 'Petit Formal Script', cursive;
+}
+
+.title-text h1{
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	padding-top: 30px;
+}
+
+p.sub-heading {
+	padding-left:2px;
+}
+
+.title-text p {
+	font-weight: bold;
+	color: #11457e;
+	font-size: 22px;
+}
+
+.symbol img {
+	margin-left: 55px;
+}
+
+.shadowed {	
+	box-shadow: 6px 0px 10px -7px #888, -6px 0px 10px -7px #888;
+}
+
+.main-content {
+	background: url('images/white_wall_hash.png') repeat;
+	padding: 30px;
+}
+
+footer.jumbotron {
+	background-color: #ccc;
+}
+
+
+
